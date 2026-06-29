@@ -66,7 +66,7 @@ My pinned repositories:
 - Prepare for transfer into a BS in Bioinformatics
 - Long-term: pursue MS/PhD in computational biology
 
-## Connect With Me 📬
-# GitHub: alexandria-wilson
-# Website: coming soon
-# LinkedIn: coming soon
+# Connect With Me 📬
+## GitHub: alexandria-wilson
+## Website: coming soon
+## LinkedIn: coming soon
