@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **alexandria-wilson/alexandria-wilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,38 +17,38 @@ Here are some ideas to get you started:
 
 I’m a software developer, Linux systems practitioner, and future computational biologist based in Fayetteville, NC, preparing to transition into bioinformatics and eventually graduate-level research in oncology, neurology, and computational biology.
 
-## What I'm Building 🔭
-# Software & Systems:
+# What I'm Building 🔭
+## Software & Systems:
 - Building multi-language tools in Python, C++, Java
 - Developing Linux automation scripts and services
 - Practicing modular programming, documentation, and structured workflows
 - Strengthening system administration fundamentals
   
-# Bioinformatics & Data:
+## Bioinformatics & Data:
 - Learning R for statistical computing and biological data visualization
 - Building pipelines for DNA, RNA, and protein analysis
 - Exploring computational approaches to disease research
 
-## Tech Stach 🛠
-# Languages:
+# Tech Stach 🛠
+## Languages:
 - Python
 - C++
 - Java
 - R
 - Bash
   
-# Systems & Tools
+## Systems & Tools
 - Linux (administration, permissions, services)
 - Git & GitHub (branching, PRs, documentation)
 - Jupyter • RStudio • VS Code
 
-# Domains
+## Domains
 - Data analysis
 - Bioinformatics foundations
 - Systems programming
 - Web app prototyping
 
-## Featured Projects (Coming Soon) 📂
+# Featured Projects (Coming Soon) 📂
 My pinned repositories:
 - python-foundations — clean, modular Python refresh projects
 - linux-systems-foundations — scripts, services, admin tasks
